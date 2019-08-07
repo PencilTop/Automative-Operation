@@ -1,0 +1,5 @@
+安装python3，修改check_users.py开头解释器路径
+任意修改passwd-test文件，添加、删除、修改字段等等，但不要修改文档结构（passwd结构）
+为check_users.py添加执行权限
+运行脚本 ./check_users.py  或 python3 check_users.py
+查看日志，并用diff工具检查base_users和passwd-test两个文件的区别，验证脚本运行正确性

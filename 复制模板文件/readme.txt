@@ -1,0 +1,3 @@
+切换到脚本目录下
+运行 python copy_splunk_model_and_update_datetime.py
+程序复制Model目录下的文件，创建月份文件夹，并将复制的文件复制进月份目录内，并更新所有的时间
